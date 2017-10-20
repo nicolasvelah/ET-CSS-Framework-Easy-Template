@@ -1,10 +1,12 @@
-# ET-CSS-Framework-Easy-Template-
+# ET-CSS-Framework-Easy-Template
 CSS framework in sass for and easy manage of font size and distance 
 
 # configuration
 $img_ruta: "/img/"
+
 $color-list: #5fa955 #fff #818181 #8f8a92 transparent
 $color-names: "verde-100" "blanco" "gris-2" "gris-3" "transparent"
+
 $breakpoints-list: "480" "360"
 $main-font-size: 16px
 $breakpoints-font-size-list: 12px 11px 10px
